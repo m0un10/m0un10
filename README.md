@@ -4,6 +4,8 @@ I'm Craig Barr. Let's connect!
 
 ## What I use (a lot)
 
+Here's a bit on my tooling preferences. You can follow me on [![](https://img.shields.io/badge/--D0D6DE?logo=x)](https://twitter.com/m0un10_)
+
 ### Tools, formats & systems
 
 All of these tools et al are running on my machine. I generally use them daily (either directly or indirectly).
