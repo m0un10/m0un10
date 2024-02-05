@@ -1,5 +1,7 @@
 # G'day ! 👋
 
+I'm Craig Barr. Let's connect!
+
 ## What I use (a lot)
 
 ### Tools, formats & systems
