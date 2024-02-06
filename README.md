@@ -20,20 +20,20 @@ All of these tools et al are running on my machine; where possible 😉.
 
 ## Technology I want to learn more about 🤔 
 
-If you know a lot about these tools, let's connect on  [![](https://img.shields.io/badge/--D0D6DE?logo=x)](https://twitter.com/m0un10_).
-
-I'm considering them for my future toolkit.
-
 |  | Technology |
 | ----------------- | ------ |
 | **Databases** | ![](https://img.shields.io/badge/-SQLite-D0D6DE?logo=sqlite) |
 | **Languages & Frameworks** | ![](https://img.shields.io/badge/-Ruby_on_Rails-D0D6DE?logo=rubyonrails) ![](https://img.shields.io/badge/-PHP-D0D6DE?logo=php) |
 
+If you know a lot about these tools, let's connect on  [![](https://img.shields.io/badge/--D0D6DE?logo=x)](https://twitter.com/m0un10_).
+
+I'm considering them for my future toolkit.
+
 ## Older tech that I know a lot about 👴
 
 I don't tend to use these tools as often these days, but I'm fond of them.
 
-You can ask me anything about these tools if you are using them and get stuck!
+You can ask me anything about these tools if you are using them and get stuck! You'll find me on [![](https://img.shields.io/badge/--D0D6DE?logo=x)](https://twitter.com/m0un10_).
 
 ![](https://img.shields.io/badge/-Oracle_Fusion_Middleware-D0D6DE?logo=oracle)
 ![](https://img.shields.io/badge/-Jenkins-D0D6DE?logo=jenkins)
