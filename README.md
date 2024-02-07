@@ -33,8 +33,6 @@ I'm considering them for my future toolkit.
 
 I don't tend to use these tools as often these days, but I'm fond of them.
 
-You can ask me anything about these tools if you are using them and get stuck! You'll find me on [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
-
 ![](https://img.shields.io/badge/-Oracle_Fusion_Middleware-000000?logo=oracle)
 ![](https://img.shields.io/badge/-Jenkins-000000?logo=jenkins)
 ![](https://img.shields.io/badge/-Gherkin-000000?logo=cucumber)
@@ -45,6 +43,8 @@ You can ask me anything about these tools if you are using them and get stuck! Y
 ![](https://img.shields.io/badge/-Vagrant-000000?logo=vagrant)
 ![](https://img.shields.io/badge/-Jira-000000?logo=jira)
 ![](https://img.shields.io/badge/-Robot_Framework-000000?logo=robotframework)
+
+You can ask me anything about these tools if you are using them and get stuck! You'll find me on [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
 
 
 
