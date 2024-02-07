@@ -36,7 +36,7 @@ I don't tend to use these tools as often these days, but I'm (mostly) fond of th
 |  | Technology |
 | ----------------- | ------ |
 | Integration, SOA, EAI | ![](https://img.shields.io/badge/-Oracle_Fusion_Middleware-000000?logo=oracle) |
-| JEE Application Servers | ![](https://img.shields.io/badge/-SpringBoot-000000?logo=springboot) |
+| JEE Application Servers | ![](https://img.shields.io/badge/-Apache_Tomcat-000000?logo=apachetomcat) ![](https://img.shields.io/badge/-WebLogic-000000?logo=oracle) ![](https://img.shields.io/badge/-SpringBoot-000000?logo=springboot) |
 | CI/CD Platforms | ![](https://img.shields.io/badge/-Jenkins-000000?logo=jenkins) ![](https://img.shields.io/badge/-GitLab-000000?logo=gitlab) ![](https://img.shields.io/badge/-Bitbucket-000000?logo=bitbucket) ![](https://img.shields.io/badge/-Travis-000000?logo=travis) |
 | Automated Testing | ![](https://img.shields.io/badge/-Gherkin-000000?logo=cucumber) ![](https://img.shields.io/badge/-Robot_Framework-000000?logo=robotframework) ![](https://img.shields.io/badge/-Jest-000000?logo=jest) ![](https://img.shields.io/badge/-Selenium-000000?logo=selenium) |
 | Configuration Management | ![](https://img.shields.io/badge/-Puppet-000000?logo=puppet) ![](https://img.shields.io/badge/-Ansible-000000?logo=ansible) ![](https://img.shields.io/badge/-Rundeck-000000?logo=rundeck) |
