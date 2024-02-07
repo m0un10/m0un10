@@ -15,7 +15,7 @@ All of these tools et al are running on my machine; where possible 😉.
 | **DevOps & Infrastructure** | ![](https://img.shields.io/badge/-Docker-000000?logo=docker) ![](https://img.shields.io/badge/-Kubernetes-000000?logo=kubernetes) ![](https://img.shields.io/badge/-Nginx-000000?logo=nginx)  ![](https://img.shields.io/badge/-Jaeger-000000?logo=jaeger) ![](https://img.shields.io/badge/-K6-000000?logo=k6) |
 | **Databases & Caching** | ![](https://img.shields.io/badge/-Redis-000000?logo=redis) ![](https://img.shields.io/badge/-MySQL-000000?logo=mysql) ![](https://img.shields.io/badge/-DynamoDb-000000?logo=amazondynamodb) ![](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb) |
 | **Exchange Formats** | ![](https://img.shields.io/badge/-JSON-000000?logo=json) ![](https://img.shields.io/badge/-YAML-000000?logo=yaml) ![](https://img.shields.io/badge/-Markdown-000000?logo=markdown) |
-| **Documentation** | ![](https://img.shields.io/badge/-OpenAPI_(Swagger)-000000?logo=swagger) ![](https://img.shields.io/badge/-MkDocs-000000?logo=materialformkdocs) |
+| **Documentation** | ![](https://img.shields.io/badge/-Notion-000000?logo=notion) ![](https://img.shields.io/badge/-OpenAPI_(Swagger)-000000?logo=swagger) ![](https://img.shields.io/badge/-MkDocs-000000?logo=materialformkdocs) |
 | **Software-as-Service** | ![](https://img.shields.io/badge/-Stripe-000000?logo=stripe) ![](https://img.shields.io/badge/-Google_Translate-000000?logo=googletranslate) ![](https://img.shields.io/badge/-Calendly-000000?logo=calendly) ![](https://img.shields.io/badge/-last.fm-000000?logo=lastdotfm) |
 
 ## Technology I want to learn more about 🤔 
@@ -29,20 +29,22 @@ If you know a lot about these tools, let's connect on  [![](https://img.shields.
 
 I'm considering them for my future toolkit.
 
-## Older tech that I know a lot about 👴
+## Other tech that I know a lot about 👴
 
 I don't tend to use these tools as often these days, but I'm fond of them.
 
-![](https://img.shields.io/badge/-Oracle_Fusion_Middleware-000000?logo=oracle)
-![](https://img.shields.io/badge/-Jenkins-000000?logo=jenkins)
-![](https://img.shields.io/badge/-Gherkin-000000?logo=cucumber)
-![](https://img.shields.io/badge/-Puppet-000000?logo=puppet)
-![](https://img.shields.io/badge/-Ansible-000000?logo=ansible)
-![](https://img.shields.io/badge/-Rundeck-000000?logo=rundeck)
-![](https://img.shields.io/badge/-Selenium-000000?logo=selenium)
-![](https://img.shields.io/badge/-Vagrant-000000?logo=vagrant)
-![](https://img.shields.io/badge/-Jira-000000?logo=jira)
-![](https://img.shields.io/badge/-Robot_Framework-000000?logo=robotframework)
+|  | Technology |
+| ----------------- | ------ |
+| Integration, SOA, EAI | ![](https://img.shields.io/badge/-Oracle_Fusion_Middleware-000000?logo=oracle) |
+| JEE Application Servers | ![](https://img.shields.io/badge/-SpringBoot-000000?logo=springboot) |
+| CI/CD Platforms | ![](https://img.shields.io/badge/-Jenkins-000000?logo=jenkins) ![](https://img.shields.io/badge/-GitLab-000000?logo=gitlab) ![](https://img.shields.io/badge/-Bitbucket-000000?logo=bitbucket) ![](https://img.shields.io/badge/-Travis-000000?logo=travis) |
+| Automated Testing | ![](https://img.shields.io/badge/-Gherkin-000000?logo=cucumber) ![](https://img.shields.io/badge/-Robot_Framework-000000?logo=robotframework) ![](https://img.shields.io/badge/-Jest-000000?logo=jest) ![](https://img.shields.io/badge/-Selenium-000000?logo=selenium) |
+| Configuration Management | ![](https://img.shields.io/badge/-Puppet-000000?logo=puppet) ![](https://img.shields.io/badge/-Ansible-000000?logo=ansible) ![](https://img.shields.io/badge/-Rundeck-000000?logo=rundeck) |
+| Developer Experience | ![](https://img.shields.io/badge/-VMware-000000?logo=vmware) ![](https://img.shields.io/badge/-Vagrant-000000?logo=vagrant) |
+| Documentation | ![](https://img.shields.io/badge/-Confluence-000000?logo=confluence)  ![](https://img.shields.io/badge/-Jira-000000?logo=jira)  ![](https://img.shields.io/badge/-Gitbook-000000?logo=gitbook) |
+
+
+
 
 You can ask me anything about these tools if you are using them and get stuck! You'll find me on [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
 
