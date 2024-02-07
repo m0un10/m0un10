@@ -31,7 +31,7 @@ I'm considering them for my future toolkit.
 
 ## Other tech that I know a lot about 👴
 
-I don't tend to use these tools as often these days, but I'm fond of them.
+I don't tend to use these tools as often these days, but I'm (mostly) fond of them.
 
 |  | Technology |
 | ----------------- | ------ |
@@ -42,9 +42,6 @@ I don't tend to use these tools as often these days, but I'm fond of them.
 | Configuration Management | ![](https://img.shields.io/badge/-Puppet-000000?logo=puppet) ![](https://img.shields.io/badge/-Ansible-000000?logo=ansible) ![](https://img.shields.io/badge/-Rundeck-000000?logo=rundeck) |
 | Developer Experience | ![](https://img.shields.io/badge/-VMware-000000?logo=vmware) ![](https://img.shields.io/badge/-Vagrant-000000?logo=vagrant) |
 | Documentation | ![](https://img.shields.io/badge/-Confluence-000000?logo=confluence)  ![](https://img.shields.io/badge/-Jira-000000?logo=jira)  ![](https://img.shields.io/badge/-Gitbook-000000?logo=gitbook) |
-
-
-
 
 You can ask me anything about these tools if you are using them and get stuck! You'll find me on [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
 
