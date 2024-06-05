@@ -2,7 +2,7 @@
 
 I'm Craig Barr. I'm a Senior Software Engineer, based in Brisbane, Australia.
 
-## Tools I use regularly
+## Recent technology I've worked with
 
 |   | Tools, formats & systems  |
 | ----------------- | ------ |
@@ -16,7 +16,7 @@ I'm Craig Barr. I'm a Senior Software Engineer, based in Brisbane, Australia.
 | **Documentation** | ![](https://img.shields.io/badge/-Notion-000000?logo=notion) ![](https://img.shields.io/badge/-OpenAPI_(Swagger)-000000?logo=swagger) ![](https://img.shields.io/badge/-MkDocs-000000?logo=materialformkdocs) |
 | **Software-as-Service** | ![](https://img.shields.io/badge/-Stripe-000000?logo=stripe) ![](https://img.shields.io/badge/-Google_Translate-000000?logo=googletranslate) ![](https://img.shields.io/badge/-Calendly-000000?logo=calendly) ![](https://img.shields.io/badge/-last.fm-000000?logo=lastdotfm) |
 
-## Other tech that I know a lot about 👴
+## Other tech that I can help you with 👴
 
 I don't tend to use these tools as often these days, but I'm (mostly) fond of them.
 
