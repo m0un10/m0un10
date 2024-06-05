@@ -1,7 +1,5 @@
 # G'day ! 👋
 
-I'm Craig Barr. I'm a Senior Software Engineer, based in Brisbane, Australia.
-
 ## Recent technology I've worked with
 
 |   | Tools, formats & systems  |
