@@ -1,10 +1,8 @@
 # G'day ! 👋
 
-I'm Craig Barr. You can follow me on [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
+I'm Craig Barr. I'm a Senior Software Engineer, based in Brisbane, Australia.
 
-## What I use (a lot)
-
-All of these tools et al are running on my machine; where possible 😉.
+## Tools I use regularly
 
 |   | Tools, formats & systems  |
 | ----------------- | ------ |
@@ -17,17 +15,6 @@ All of these tools et al are running on my machine; where possible 😉.
 | **Exchange Formats** | ![](https://img.shields.io/badge/-JSON-000000?logo=json) ![](https://img.shields.io/badge/-YAML-000000?logo=yaml) ![](https://img.shields.io/badge/-Markdown-000000?logo=markdown) |
 | **Documentation** | ![](https://img.shields.io/badge/-Notion-000000?logo=notion) ![](https://img.shields.io/badge/-OpenAPI_(Swagger)-000000?logo=swagger) ![](https://img.shields.io/badge/-MkDocs-000000?logo=materialformkdocs) |
 | **Software-as-Service** | ![](https://img.shields.io/badge/-Stripe-000000?logo=stripe) ![](https://img.shields.io/badge/-Google_Translate-000000?logo=googletranslate) ![](https://img.shields.io/badge/-Calendly-000000?logo=calendly) ![](https://img.shields.io/badge/-last.fm-000000?logo=lastdotfm) |
-
-## Technology I want to learn more about 🤔 
-
-|  | Technology |
-| ----------------- | ------ |
-| **Databases** | ![](https://img.shields.io/badge/-SQLite-000000?logo=sqlite) |
-| **Languages & Frameworks** | ![](https://img.shields.io/badge/-Ruby_on_Rails-000000?logo=rubyonrails) ![](https://img.shields.io/badge/-PHP-000000?logo=php) |
-
-If you know a lot about these tools, let's connect on  [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
-
-I'm considering them for my future toolkit.
 
 ## Other tech that I know a lot about 👴
 
@@ -43,7 +30,5 @@ I don't tend to use these tools as often these days, but I'm (mostly) fond of th
 | Developer Experience | ![](https://img.shields.io/badge/-VMware-000000?logo=vmware) ![](https://img.shields.io/badge/-Vagrant-000000?logo=vagrant) |
 | Documentation | ![](https://img.shields.io/badge/-Confluence-000000?logo=confluence)  ![](https://img.shields.io/badge/-Jira-000000?logo=jira)  ![](https://img.shields.io/badge/-Gitbook-000000?logo=gitbook) |
 
-You can ask me anything about these tools if you are using them and get stuck! You'll find me on [![](https://img.shields.io/badge/--000000?logo=x)](https://twitter.com/m0un10_).
-
-
+You can ask me anything about these tools if you are using them and get stuck! 
 
