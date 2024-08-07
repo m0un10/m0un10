@@ -1,6 +1,6 @@
 # G'day ! 👋
 
-## Recent technology I've worked with
+## Recent technology I've built with
 
 |   | Tools, formats & systems  |
 | ----------------- | ------ |
